@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+With this project we want people to get to know github by writing a bot who sends friendly messages.
 ## What it does
 
-FEATURES PLACEHOLDER
+The bot will send friendly messages to contributors of your github project.
+
 
 ## Getting started
 
